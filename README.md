@@ -1,5 +1,9 @@
 # A test code written to explore fetching and mapping census data
-The sample script uses "tidycensus" package library to fetch tabular data and "mapview" to plot the data
+The sample script uses "tidycensus" package library to fetch tabular data and "mapview" to plot the data.
 
-#Sample result of this mapping exercise looks like this:
-![Capture](https://user-images.githubusercontent.com/5032868/72588196-66e47500-38ac-11ea-86ca-0c97a3dbed07.JPG)
+# A sample result of this mapping exercise looks like this (for median income in King County, WA):
+
+![Capture](https://user-images.githubusercontent.com/5032868/72588739-1a9a3480-38ae-11ea-8b31-53e02883ca12.JPG)
+
+
+* results are not vetted for accuracy. 
